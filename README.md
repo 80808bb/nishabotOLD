@@ -1,7 +1,6 @@
 # nishabot
 Bot de discord que envía fotos aleatorias de Nisha, (y otras cosas).
-El bot está pensado para un solo servidor (guild) sin preocuparse demasiado por generalizar código.
 
-Está escrito en Java usando la librería JDA.
+El bot está escrito en Java usando la librería JDA y está pensado para un solo servidor (guild).
 
 !nisha
