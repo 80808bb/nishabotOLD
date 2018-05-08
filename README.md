@@ -6,14 +6,12 @@
 <h2>Estructura de ficheros/información adicional:</h2>
 <p>Todo lo escrito en esta sección es susceptible de cambios.</p>
 <h4>Directorios y ficheros</h4>
-<p>La estructura de los directorios es la siguiente:
-<br>
+<p>La estructura de los directorios es la siguiente:</p>
   <ul>
     <li><b>/ficheros</b> - Aquí se encuentran los ficheros utilizados para almacenar datos como por ejemplo  el fichero ultimoNegro.txt</li>
     <li><b>/nishafotos</b> - Aquí se encuentran todas las fotos de Nisha</li>
      <li><b>/fotosRandom</b> - Aquí se encuentran todas las fotos que no sean de Nisha (a excepción de la foto del negro, que se encuentra en /nishafotos)</li>
   </ul>
-</p>
 <h4>config.xml</h4>
 <p>Fichero XML de configuración almacenado en el directorio raíz que contiene diferentes parámetros que se suelen cambiar frecuentemente.
 <br>
